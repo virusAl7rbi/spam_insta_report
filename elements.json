@@ -1,0 +1,38 @@
+{
+    "login": [
+        {
+            "username": "/html/body/div[1]/section/main/div/div/div[1]/div/form/div/div[1]/div/label/input"
+        },
+        {
+            "password": "/html/body/div[1]/section/main/div/div/div[1]/div/form/div/div[2]/div/label/input"
+        },
+        {
+            "login-btn": "/html/body/div[1]/section/main/div/div/div[1]/div/form/div/div[3]/button"
+        }
+    ],
+    "spam": [
+        {
+            "options": "/html/body/div[1]/section/main/div/header/section/div[1]/div/button"
+        },
+        {
+            "report": "/html/body/div[5]/div/div/div/div/button[3]"
+        },
+        {
+            "resone": [
+                {
+                    "spam": "/html/body/div[5]/div/div/div/div[2]/div/div/div/div[3]/button[1]"
+                },
+                {
+                    "notGoodPosting": "/html/body/div[5]/div/div/div/div[2]/div/div/div/div[3]/button[1]"
+                },
+                {
+                    "int7al": "/html/body/div[5]/div/div/div/div[2]/div/div/div/div[3]/button[2]"
+                },
+                {
+                    "under13": "/html/body/div[5]/div/div/div/div[2]/div/div/div/div[3]/button[3]"
+                }
+            ]
+        },
+        {"confirm":"/html/body/div[5]/div/div/div/div/div/div/div[2]/button"}
+    ]
+}
